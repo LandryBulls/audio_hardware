@@ -18,8 +18,8 @@ While we use the wireless version described below, a more budget-friendly "hard-
 ### Essential Components
 
 #### 1. Face-Worn Cardioid Microphones (One per participant) 🎭
-- **Option A:** [Countryman E6](https://www.sweetwater.com/store/detail/E6DW5L2SR--countryman-e6-directional-earset-for-sennheiser-speaking-beige-2mm) (Untested but promising)
-- **Option B:** [DPA 4088](https://www.bhphotovideo.com/c/search?Ntt=Dpa%204088) (Our tried-and-true choice)
+- **Option A:** [Countryman E6](https://www.sweetwater.com/store/detail/E6DW5L2SR--countryman-e6-directional-earset-for-sennheiser-speaking-beige-2mm) (Untested but promising and less expensive)
+- **Option B:** [DPA 4088](https://www.bhphotovideo.com/c/search?Ntt=Dpa%204088) (What we use but is probably overkill)
 
 #### 2. Multi-Channel Wireless System 📡
 You'll need a receiver system with:
