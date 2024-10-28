@@ -35,6 +35,7 @@ Choose based on your participant count:
 
 #### 4. Supporting Equipment 🔌
 - **TRS Cables:** [Hosa TRS cables](https://www.bhphotovideo.com/c/product/828467-REG/Hosa_Technology_HSS_001_5_HSS_001_5_Balanced_1_4_TRS.html) (One per channel)
+- ***Rechargable AA batteries and charger for the transmitters***
   > Pro tip: Get well-shielded, short (1-2 ft) cables to minimize interference!
 - **Storage:** [SanDisk 128GB SD card](https://www.bhphotovideo.com/c/product/1692696-REG/sandisk_sdsdxxd_128g_ancin_128gb_extreme_pro_uhs_i.html) (Have extras!)
 - **Adapters:** [Various mic-to-receiver adapters](https://www.bhphotovideo.com/c/product/828468-REG/Hosa_Technology_GMP_467_3_5mm_TRS_to_1_4.html)
@@ -58,9 +59,9 @@ graph LR
 
 ## 🔧 Additional Tools
 Need to clean up your recordings or sync with video? Check out:
-- [This script](https://github.com/LandryBulls/voicolate/blob/main/voicolate/isolate.py) for isolating individual microphone channels for enhanced separation
-- [This script](https://github.com/LandryBulls/voicolate/blob/main/voicolate/transcribe.py) for using WhisperX to transcribe your audio files
-- Functions in [This script](https://github.com/LandryBulls/multidata/blob/main/alignment/align.py) for aligning audio with video files (you will need to adjust the code to fit your specific setup). 
+- [Audio isolation script](https://github.com/LandryBulls/voicolate/blob/main/voicolate/isolate.py) for isolating individual microphone channels for enhanced separation
+- [Simple transcription with WhisperX](https://github.com/LandryBulls/voicolate/blob/main/voicolate/transcribe.py) for using WhisperX to transcribe your audio files
+- Functions in [this script](https://github.com/LandryBulls/multidata/blob/main/alignment/align.py) for aligning audio with video files (you will need to adjust the code to fit your specific setup). 
 
 ## 📝 Quick Tips
 - Always test your wireless setup before recording
@@ -84,6 +85,6 @@ If you use this setup in your research, please cite as:
   title = {Audio Hardware for Naturalistic Conversation Research},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/LandryBulls/RepoName}
+  url = {https://github.com/LandryBulls/audio_hardware}
 }
 ```
