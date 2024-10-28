@@ -2,7 +2,7 @@
 
 > *"Because your research questions probably don't include 'what's that weird buzzing sound?'"*
 
-**Author:** Your Name ([@LandryBulls](https://github.com/LandryBulls))  
+**Landry Bulls** ([@LandryBulls](https://github.com/LandryBulls))  
 [SCRAP Lab](http://scraplab.org/)  
 
 **Created:** October 2024
