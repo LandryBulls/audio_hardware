@@ -75,16 +75,4 @@ Need to clean up your recordings or sync with video? Check out:
 
 > For questions or contributions, feel free to open an issue or pull request!
 
-## 📝 Citation
-
-If you use this setup in your research, please cite as:
-
-```bibtex
-@misc{Bulls2024Audio,
-  author = {Landry Bulls},
-  title = {Audio Hardware for Naturalistic Conversation Research},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/LandryBulls/audio_hardware}
-}
-```
+---
