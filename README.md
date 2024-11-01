@@ -54,8 +54,8 @@ graph LR
 
 ### Channel Configuration
 - Each transmitter must be set to match its corresponding channel on the receiver
-- Based on our testing, FM channels should be spaced at least 4 channels apart to prevent cross-talk and interference
-  > For example, with 4 participants, you might use channels 1, 5, 9, and 13 to ensure clean separation
+- Based on our testing, FM channels should be spaced at least 16 channels apart to prevent cross-talk and interference
+  > For example, with 4 participants, you might use channels 1, 16, 32, and 48 to ensure clean separation
 
 ## 🔧 Additional Tools
 Need to clean up your recordings or sync with video? Check out:
